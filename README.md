@@ -1,4 +1,4 @@
-# `@swirlyleopard/creatable`
+# creatable
 
 🏗 Small CLI to bootstrap new projects
 
